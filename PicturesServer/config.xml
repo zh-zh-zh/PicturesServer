@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <!-- 监视的目录-->
+  <srcPath>D:\test\src\</srcPath>
+  <!-- 新文件保存目录-->
+  <decPath>D:\test\dsc\</decPath>
+  <!-- 数据库文件-->
+  <databaseFile>Pictures.db</databaseFile>
+  <!-- 是否允许删除文件，移动时为剪切 重复时为删除-->
+  <deleteFile>true</deleteFile>
+  <!-- 是否监视目录-->
+  <monitorFile>true</monitorFile>
+</config>
